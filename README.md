@@ -2,10 +2,11 @@
 
 I am expirienced IT specialist interesting in infrastructure as code, DevOps, and reusable infrastructure components.
 
-## I like
+## I like ...
 - [My job](https://linkedin.com/in/kostiantyn-puzikov/)
 - [Architecture](http://www.sosbrutalism.org)
-- Sleep )
+- [to read books](https://www.goodreads.com/user/show/13602644-kostua)
+- to sleep )
 
 
 ## Some of my repo
